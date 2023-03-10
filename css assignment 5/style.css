@@ -1,0 +1,27 @@
+h2{
+font-style: italic;
+font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+p{
+    font-style: italic;
+}
+h3{
+font-style: italic;
+font-size: 30px;
+}
+body{
+background-image: url(https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg?w=900&t=st=1678409340~exp=1678409940~hmac=5db7bea45b60fc0f2bcf747b4384c644d4ebf4c4dc4b1ee3b527e842c00f3c38);
+background-size: cover;
+}
+*{
+    color: rgba(240, 248, 255, 0.992);
+    font-size: 19px;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    line-height: 19px;
+}
